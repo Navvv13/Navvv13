@@ -14,8 +14,6 @@ Navneet here. Welcome to the homepage of my github profile.
  
  -🎭Apart from that I love to sing, write and play ukulele.
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navvv13&label=Profile%20views&color=0e75b6&style=flat" alt="navvv13" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/navneetkaur01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneetkaur01" height="30" width="40" /></a>
