@@ -12,9 +12,6 @@ Navneet here. Welcome to the homepage of my github profile.
  
  -⚡ Fun fact: I am an avid reader and I am always up for discussing different genres of books. I love Science Fiction and non-fiction.
  
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navvv13&label=Profile%20views&color=0e75b6&style=flat" alt="navvv13" /> </p>
 
 <h3 align="left">Connect with me:</h3>
