@@ -1,6 +1,6 @@
 ### Hi there 👋
-**Navneet here. Welcome to the homepage of my github profile.
-###ABOUT ME
+Navneet here. Welcome to the homepage of my github profile.
+### ABOUT ME
 
  -🔭 I am a curious person and I have keen interest in exploring the field of new technologies.
  -👩‍🎓 I'm currently pursuing my bachelors in Computer Science Engineering (CSE) at Thapar Institute of Engineering and Technology, Patiala.
