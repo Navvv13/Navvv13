@@ -1,5 +1,5 @@
 ### Hi there 👋
-Navneet here. Welcome to the homepage of my github profile.  ![Visitor Count](https://profile-counter.glitch.me/{Navvv13}/count.svg)
+Navneet here. Welcome to the homepage of my github profile.  
 ### ABOUT ME
 
  -🔭 I am a curious person and I have keen interest in exploring the field of new technologies.
